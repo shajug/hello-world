@@ -1,3 +1,2 @@
 # hello-world
-just test 
-mastr edited
+just test repo
